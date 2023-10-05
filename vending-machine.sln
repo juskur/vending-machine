@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VencingMachineApp", "VencingMachineApp\VencingMachineApp.csproj", "{F0873748-D9F8-4645-952B-71094A9529B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachineTest", "VendingMachineTest\VendingMachineTest.csproj", "{BAF5F06E-DE2D-4686-A192-5ACEE101DD78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{275ECAD1-AF87-4ECA-A397-96BA7259D151}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0873748-D9F8-4645-952B-71094A9529B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0873748-D9F8-4645-952B-71094A9529B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0873748-D9F8-4645-952B-71094A9529B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0873748-D9F8-4645-952B-71094A9529B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF5F06E-DE2D-4686-A192-5ACEE101DD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF5F06E-DE2D-4686-A192-5ACEE101DD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF5F06E-DE2D-4686-A192-5ACEE101DD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF5F06E-DE2D-4686-A192-5ACEE101DD78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CAE7649-1EE1-4DFF-93B9-6FD3F0939D74}
+	EndGlobalSection
+EndGlobal
